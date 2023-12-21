@@ -1,0 +1,14 @@
+Instructions
+------------
+
+Register players into the Bulldog Boxing League database. Registered players stored in the Bulldog Boxing League will be able to participate in any tournaments held by Bulldog Boxing League thereafter.
+
+Before starting a tournament, make sure to register the participants of the tournament in the "Tournament Setup". The "Tournament Setup" requires the user to select a length/player number for the tournament.
+
+After setting up the tournament, the user is welcome to start a tournament. The user umpiring the tournament will select winners of each game in their respective RadioGroup components. After selecting the winners, the user may proceed to the next round, until a final winner is determined.
+
+Extras
+---------
+
+Leaderboard: Rankings of registered players are found in the leaderboard.
+Tournament Winners: Details of each tournament held in Bulldog Boxing League are found in a TextFile after each tournament.
